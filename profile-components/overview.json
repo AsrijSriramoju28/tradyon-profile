@@ -1,0 +1,20 @@
+{
+"company_overview": {
+    "industry": "Manufacturing",
+    "categories": "Spices etc",
+    "since": "2015",
+    "corporate_overview": [
+        {
+            "name": "KMG",
+            "address": "addr",
+            "phone_number": "+912123123"
+        },
+        {
+            "name": "Robust",
+            "address": "addre2",
+            "phone_number": "+012342324"
+        }
+    ],
+    "description": "A very long description..."
+}
+}
